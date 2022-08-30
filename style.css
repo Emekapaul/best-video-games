@@ -5,7 +5,7 @@ body {
 .first-container {
     background-color: #1f2937;
     color: white;
-    padding: 10px;
+    padding: 20px;
 }
 
 
@@ -17,7 +17,7 @@ body {
 
 
 .left-header {
-    font-size: 24px;
+    font-size: 28px;
     color: #f9faf8;
     font-weight: bolder;
 }
@@ -27,8 +27,8 @@ ul {
     margin: 0;
     display: flex;
     list-style-type: none;
-    gap: 20px;
-    font-size: 18px;
+    gap: 22px;
+    font-size: 20px;
     color: #e5e7eb;
     
 }
@@ -216,4 +216,6 @@ h3 {
     font-size: 16px;
     padding: 0 5px;
 }
+
+
 
